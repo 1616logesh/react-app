@@ -1,2 +1,4 @@
 THis is the sample file created for git
+THis is file created for resolving the conflicts
+
 This file is edited for creating conflicts
